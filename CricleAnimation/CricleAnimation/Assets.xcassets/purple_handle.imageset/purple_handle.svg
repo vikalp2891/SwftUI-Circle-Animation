@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="133">
+    <defs>
+        <linearGradient id="nv1lnrcdua" x1="0%" x2="0%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#00F7DD"/>
+            <stop offset="100%" stop-color="#00D5E6"/>
+        </linearGradient>
+    </defs>
+    <path fill-rule="evenodd" fill="#ADBAD3" d="M7.223.933 10.1 133H0L4.088.798l3.135.135z"/>
+    <path fill="url(#nv1lnrcdua)" d="M7.223.933 10.1 133H0L4.088.798l3.135.135z"/>
+</svg>
